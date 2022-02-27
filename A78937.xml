@@ -1,0 +1,312 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Kings Majesties most gratious letter to his sonne, his Highnesse James Duke of York: written with his Majesties owne hand. Read in both Houses of Parliament. Also a letter from his Highnesse Prince Charles, sent from France, to the Estates and Common Councell of (and concerning) Jersey, and the managing of designes for the Kings Majesty, and those who have adhered to him. And a declaration from the agitators in the name of the whole army under His Excellency Sir Thomas Fairfax (to their fellow souldiers) of their representations and desires. July 15. 1647. These are true copies, and that from the King was written with his Majesties owne hand, and read in both Houses of Parliament. Signed, Charles Rex.</title>
+            <author>Charles I, King of England, 1600-1649.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78937</idno>
+            <idno type="STC">Wing C2509</idno>
+            <idno type="STC">Thomason E398_20</idno>
+            <idno type="STC">ESTC R201696</idno>
+            <idno type="EEBO-CITATION">99862195</idno>
+            <idno type="PROQUEST">99862195</idno>
+            <idno type="VID">114346</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78937)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114346)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 63:E398[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Kings Majesties most gratious letter to his sonne, his Highnesse James Duke of York: written with his Majesties owne hand. Read in both Houses of Parliament. Also a letter from his Highnesse Prince Charles, sent from France, to the Estates and Common Councell of (and concerning) Jersey, and the managing of designes for the Kings Majesty, and those who have adhered to him. And a declaration from the agitators in the name of the whole army under His Excellency Sir Thomas Fairfax (to their fellow souldiers) of their representations and desires. July 15. 1647. These are true copies, and that from the King was written with his Majesties owne hand, and read in both Houses of Parliament. Signed, Charles Rex.</title>
+                  <author>Charles I, King of England, 1600-1649.</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>England and Wales. Army.</author>
+               </titleStmt>
+               <extent>[2], 13, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Moses Bell neere Christ-Church, and Robert Ibbitson in Smithfield neere Hosier Land end.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114346:1" rendition="simple:additions"/>
+            <p>THE KINGS MAJESTIES Moſt Gratious LETTER TO HIS Sonne, his Highneſſe <hi>JAMES</hi> Duke of <hi>York:</hi> Written with his Majeſties OWNE HAND. <hi>Read in both Houſes of Parliament.</hi> ALSO A Letter from his Highneſſe Prince <hi>Charles,</hi> ſent from <hi>France,</hi> to the Eſtates and Common Councell of (and concerning) <hi>Jerſey,</hi> and the managing of Deſignes for the Kings Majeſty, and thoſe who have adhered to Him.</p>
+            <p>
+               <hi>And a Declaration from the Agitators in the name of the whole Army under His Excellency Sir</hi> Thomas Fairfax <hi>(to their fellow Souldiers) of their Repreſentations and Deſires.</hi>
+            </p>
+            <p>
+               <hi>July</hi> 15. 1647.</p>
+            <p>
+               <hi>THeſe are true Copies, and that from the King was written with his Majeſties owne hand, and read in both Houſes of Parliament.</hi> Signed, CHARLES REX.</p>
+            <p>
+               <hi>LONDON</hi> Printed by <hi>Moſes Bell</hi> neere Chriſt-Church, and <hi>Robert Ibbitſon</hi> in Smithfield mere Hoſier Lane end. 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:114346:2"/>
+            <pb n="1" facs="tcp:114346:2"/>
+            <head>THE KINGS MAJESTIES moſt Gratious LETTER TO HIS Sonne, his Highneſſe <hi>James,</hi> Duke of <hi>York,</hi> written with His Majeſties owne Hand; Read in both Houſes of PARLIAMENT.</head>
+            <opener>
+               <signed>CHARLES R.</signed>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>AMES,</hi> I am in hope, that you may be permited, with your Brother, and Siſter, to come to ſome place, be<g ref="char:EOLhyphen"/>twixt this and <hi>London,</hi> where I may ſee you:</p>
+            <p>To this end therefore; I command you, to aske leave of the two Houſes,
+<pb n="2" facs="tcp:114346:3"/>to make a journey (if it may be) for a night or two.</p>
+            <p>But rather then not to ſee you; I will be content that ye come to ſome convenient place to dine, and go back at night.</p>
+            <p>And foreſeeing the feare of your being brought within the power of the Army, as I am, may be objected, to hinder this my deſire:</p>
+            <p>I have full aſſurance from Sir <hi>Tho<g ref="char:EOLhyphen"/>mas Fairfax,</hi> and the Chiefe Officers, that there will be no interruption, or impediment, made by them, for your return, how, and when ye pleaſe.</p>
+            <p>
+               <hi>So God bleſſe you.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <hi>Caſam</hi> 
+                  <date>4 July 1647.</date>
+               </dateline>
+               <signed>
+                  <hi>Your loving Father</hi> Charles Rex.</signed>
+            </closer>
+            <postscript>
+               <pb n="3" facs="tcp:114346:3"/>
+               <head>Poſtſcript,</head>
+               <p>
+                  <hi>Send mee word as ſoone as you can of the time, and place, where I ſhall have the contentment of ſeeing you, your bro<g ref="char:EOLhyphen"/>ther; and ſiſter.</hi>
+               </p>
+            </postscript>
+         </div>
+         <div type="letter">
+            <head>A LETTER FROM His Highneſſe Prince <hi>Charles,</hi> ſent FROM FRANCE.</head>
+            <opener>
+               <signed>Charles P.</signed>
+            </opener>
+            <p>TRuſty and well-beloved, greeting; wee are ſo abundantly ſatisfied of your good affections, and fidelity to us (of which we have had a full experience) and wee have ſo
+<pb n="4" facs="tcp:114346:4"/>great an Intereſt to the tranquility and ſafety of your Iland: That wee are now no leſſe vigilant to prevent any dangers, or diſtur<g ref="char:EOLhyphen"/>bances that may threaten it, then at the time when wee were in perſon with you. Therefore being advertiſed (by the intel<g ref="char:EOLhyphen"/>legences that wee have received from <hi>Lon<g ref="char:EOLhyphen"/>don</hi>) that thoſe ſeditious fugitives of the ſaid Iſland (who have confiſcated their lives and Eſtates, to the King our Father) now reſiding with the Rebels, do pretend to have a firme, and aſſured correſpen<g ref="char:EOLhyphen"/>dency, and a party in the Iſland, ready to joyne with them (by which they hope to procure, that forces may bee ſent to invade the ſaid Iſland.) Wee have commanded our truſty and well-beloved Servant Sir <hi>George Carteret</hi> Knight (Vice Chamberlaine of our Houſe, and Leivetenant Governour of the ſaid Iſland) to uſe the greateſt deli<g ref="char:EOLhyphen"/>gence, and induſtry that poſſibly hee may, for the diſcovery of ſuch ill affected perſons yet remaining there, with whom it is moſt probable that thoſe fugitives have cor<g ref="char:EOLhyphen"/>reſpondency: And that all ſuch perſons
+<pb n="5" facs="tcp:114346:4"/>who may bee juſtly ſuſpected to bee affected towards them, and that (in caſe of any attempt) would probably joyne with them, bee impriſoned forthwith, or expelled out of the Iſland during this Summer; the which being faithfully effected (of which wee doubt not your accompliſhment) it will the better give thoſe of <hi>London</hi> to under<g ref="char:EOLhyphen"/>ſtand, how little aſſiſtance they are to ex<g ref="char:EOLhyphen"/>pect from the Inhabitants of the ſame. And (by that meanes) further miſcheife will be prevented. And (to the end that this de<g ref="char:EOLhyphen"/>ſigne may the more regulerly bee proceeded in, and exactly put in execution: Wee have thought it convement: (and by theſe pre<g ref="char:EOLhyphen"/>ſents we deſire and require you) that you joyne, and give all aſsiſtance (that poſsi<g ref="char:EOLhyphen"/>bly you may) to the ſaid Sir <hi>George Carteret</hi> Knight, to put in execution theſe our com<g ref="char:EOLhyphen"/>mands, ſo neceſſary: there being no ex<g ref="char:EOLhyphen"/>pedient more apparent to prevent all trou<g ref="char:EOLhyphen"/>bles, and inconveniences, that may hap<g ref="char:EOLhyphen"/>pen unto you, then ſuch publique declara<g ref="char:EOLhyphen"/>tion of unanimitie and perfect reſolutions amongſt your ſelves, under our protecti<g ref="char:EOLhyphen"/>on.
+<pb n="6" facs="tcp:114346:5"/>And be ye aſſured that if any attempt be made againſt you, we ſhall be as carefull to aſsiſt, preſerve, and defend you, as if wee were our ſelves with you. And as your fidelity to the King my Father, to the Crowne of <hi>England;</hi> and your particu<g ref="char:EOLhyphen"/>lar affections towards our perſon, hath been (more than ordinary) eminent: We think therefore that wee have not done our part untill that (beſides our gracious, and gene<g ref="char:EOLhyphen"/>rall acceptance) wee have ſet a notable marke of the eſteeme that wee have of that Iſland and the Inhabitants thereof, that may be publique to the view of the world, and everlaſting to poſterity. And ſo we bid you farewell.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at the Caſtle de Louver in</hi> Paris <date>
+                     <hi>Ma.</hi> 22. 1647.</date>
+               </dateline>
+            </closer>
+            <trailer>To our well-beloved Subjects, the Eſtates And Common-councell of the Iſland of <hi>Jarſey.</hi>
+            </trailer>
+         </div>
+         <div type="letter">
+            <pb n="7" facs="tcp:114346:5" rendition="simple:additions"/>
+            <head>A Declaration from the Agita<g ref="char:EOLhyphen"/>tors in the name of the whole Army under his Excellency Sir <hi>Thomas Fair<g ref="char:EOLhyphen"/>fax</hi> (to their fellow Souldiers) of their Repreſentations and Deſires.</head>
+            <opener>
+               <salute>Gentlemen and fellow Souldiers;</salute>
+            </opener>
+            <p>YOu beeing Members of the ſame Body with us, it cannot beſuppoſed that we ſhould be alto<g ref="char:EOLhyphen"/>gether inſenſible of your ſad ſuffe<g ref="char:EOLhyphen"/>rings and preſſing grievances, or diſtruſtfull of your Fidelity and Conſtant Reſolutions, to ſtick una<g ref="char:EOLhyphen"/>nimouſty to us in purſuance of our Juſt and Lawfull Deſignes, tending to our and your timely reliefe, and
+<pb n="8" facs="tcp:114346:6"/>the Peace and welfare of the King<g ref="char:EOLhyphen"/>dome. We are not ignorant of the temptations whereunto you are lia<g ref="char:EOLhyphen"/>ble, having ſo many diſcourag<g ref="char:EOLhyphen"/>ments by reaſon of your want of Pay and diſtance from us, as alſo the miſ-repreſentation of us and our proceedings, whereby you may be in danger, either to leave your Sta<g ref="char:EOLhyphen"/>tion, and ſeeke redreſſe elſewhere, or to deſert us and our Juſt Cauſe through miſ-information; we have therefore thought fit to preſent our ſelves to you thus, <hi>viz.</hi>
+            </p>
+            <pb n="9" facs="tcp:114346:6"/>
+            <p>WE ſeeing our ſelves and the whole Kingdome laid open to oppreſſi<g ref="char:EOLhyphen"/>on and injury through the malice and wicked contrivances of unjuſt Men, have been neceſſitated to put on Man-like Re<g ref="char:EOLhyphen"/>ſolutions, and accordingly to act for our Lives, and the Lives of our Fellow-Soul<g ref="char:EOLhyphen"/>diers, who have faithfully ſerved the State, which were wickedly ſold into the Jawes of Tyranny and unheard of Cruelty, to ſatisfie the unlimited Luſts of perverſe men: And finding no other remedy left us but with our Swords in our hands, to pro<g ref="char:EOLhyphen"/>ſecute the Enemies of our Peace, and in<g ref="char:EOLhyphen"/>deavour to bring them to condigne pu<g ref="char:EOLhyphen"/>niſhment. We have folemnly ingaged our ſelves not to disband untill we have ob<g ref="char:EOLhyphen"/>tained ſome ſecurity of our Lives and juſt Liberties, and ſetled this diſtracted Nati<g ref="char:EOLhyphen"/>on in Peace and Quiet.</p>
+            <p>But leaſt our intentions ſhould be pre<g ref="char:EOLhyphen"/>ſented to you in a falſe Glaſſe, we have thought good to let you ſee the inſide of our undertakings, and the ſincere inten<g ref="char:EOLhyphen"/>tions
+<pb n="10" facs="tcp:114346:7"/>of our hearts in our preſent procee<g ref="char:EOLhyphen"/>dings. It is not our owne intereſts, or ſetting up of our own advantage, or the feeding of our owne Luſts, that is in our eye or aime; But it is the glory of God, the juſt preſervation and ſafety of the Kings Perſon, the juſt Priviledges of Parliament, the redeeming of the Lives and Liberties of the Free-People of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> from Tyranny, Oppreſſion, and In<g ref="char:EOLhyphen"/>juſtice; the maintenance of juſt Lawes, and the neceſſary ſupport and defence of this Kingdome, together with the free and impartiall diſtribution of Juſtice to all, which we have made our aime: And when theſe our ends ſhall be obtained, and meanes for the continuance thereof eſtabliſhed, we ſhall acquieſſe, and be rea<g ref="char:EOLhyphen"/>dy either to lay downe Armes, or other<g ref="char:EOLhyphen"/>wiſe to be imployed for the ſervice of the Common-wealth; And that you may be, not onely willing, (as we beleeve you are) but alſo able to proſecute effectually the ſame things with us, we ſhall offer this advice to you.
+<list>
+                  <pb n="11" facs="tcp:114346:7"/>
+                  <item>I. <hi>That you will not ſuffer your ſelves to be broken in peeces by any diſcouragements, but unite your ſelves in Love, and ſtreng<g ref="char:EOLhyphen"/>then one another in Reſolution to keepe your ſtanding, and performe the Truſt repoſed in you, in that place of ſtrength and conſequence wherein you are.</hi>
+                  </item>
+                  <item>II. <hi>That you would not (upon any preten<g ref="char:EOLhyphen"/>ded Order whatſoever) betray your Truſt, or deliver up your Garriſon into the Hands of any, untill you ſhall receive Commands from our Generall, whoſe Warrant onely is able to beare you out in it.</hi>
+                  </item>
+                  <item>III. <hi>That you would endeavour to hold corre<g ref="char:EOLhyphen"/>ſpondence with us, by appointing ſome faith<g ref="char:EOLhyphen"/>full men, who may (at all times) acquaint us with your condition, and receive ſuch in<g ref="char:EOLhyphen"/>timation from us as may concerne you.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>And be you aſſured, That we ſhall at all times faithfully ſtand by you in all
+<pb n="12" facs="tcp:114346:8"/>juſt and lawfull proceedings, and make all your ſufferings our owne, and endea<g ref="char:EOLhyphen"/>vour to the atmoſt of our abilities to ma<g ref="char:EOLhyphen"/>nifeſt our ſelves the earneſt ſeekers of your, our owne, and the Kingdoms wel<g ref="char:EOLhyphen"/>fare, ſubſcribing our ſelves</p>
+            <closer>
+               <signed>
+                  <hi>Your and the Kingdome faithfull Friends and Servants, cho<g ref="char:EOLhyphen"/>ſen to be Agitators in behalfe of the Army.</hi>
+                  <list>
+                     <item>
+                        <hi>Iames Berry,</hi> Captaine.</item>
+                     <item>
+                        <hi>Iohn Clerke,</hi> Captaine.</item>
+                     <item>
+                        <hi>Edmond Rolph,</hi> Capt.</item>
+                     <item>
+                        <hi>Hen. Prittie,</hi> Capt.</item>
+                     <item>
+                        <hi>Waldine Lage,</hi> Capt.</item>
+                     <item>Agitators of the Generalls Regiment.
+<list>
+                           <item>
+                              <hi>Ed. Sexby.</hi>
+                           </item>
+                           <item>
+                              <hi>Iohn Taylor.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>Agitators Lievr. Gen. Regiment.
+<list>
+                           <item>
+                              <hi>William Allin.</hi>
+                           </item>
+                           <item>
+                              <hi>Samuel Titterington.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>Agitators of Col. <hi>Rich</hi> his Regiment.
+<list>
+                           <item>
+                              <hi>Iohn Braman.</hi>
+                           </item>
+                           <item>
+                              <hi>Anthony Wickſon.</hi>
+                           </item>
+                           <item>
+                              <hi>Thomas Shippard.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <pb n="13" facs="tcp:114346:8"/>
+                     <item>Agitators of Col. <hi>Whalies</hi> Regiment.
+<list>
+                           <item>
+                              <hi>Philip Eyton.</hi>
+                           </item>
+                           <item>
+                              <hi>Iohn Young.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>Agitators of Col. <hi>Thomlinſons</hi> Regiment.
+<list>
+                           <item>
+                              <hi>Barth. Willocke.</hi>
+                           </item>
+                           <item>
+                              <hi>Richard Clarke.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>Agitators of Col. <hi>Hortons</hi> Regiment.
+<list>
+                           <item>
+                              <hi>Iohn Willoughby.</hi>
+                           </item>
+                           <item>
+                              <hi>Tobias Boxe.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>Agitators of Col. <hi>Hammonds</hi> Regiment.
+<list>
+                           <item>
+                              <hi>Nat. Foxgill.</hi>
+                           </item>
+                           <item>
+                              <hi>Will. Bridgeman.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>Agitators of Col. <hi>Wallers</hi> Regiment.
+<list>
+                           <item>
+                              <hi>Rob. Maſon.</hi>
+                           </item>
+                           <item>
+                              <hi>Hen. Anderton.</hi>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
